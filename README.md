@@ -27,7 +27,7 @@ This project manages products, suppliers, sales, and file-based data storage in 
 - File Handling in C++
 - Vectors and STL
 - Modular Programming
-- Exception Handling (if used)
+- Exception Handling
 
 ---
 
