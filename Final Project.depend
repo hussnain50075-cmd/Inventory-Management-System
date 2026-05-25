@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1779294784 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\main.cpp
+	<iostream>
+	"Supplier.h"
+
+1779258565 d:\university\2nd semester\oop lab\code blocks\final project\final project\supplier.h
+	"Person.h"
+
+1779258544 d:\university\2nd semester\oop lab\code blocks\final project\final project\person.h
+	<iostream>
+
+1779258515 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\person.cpp
+	"Person.h"
+
+1779258651 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\supplier.cpp
+	"Supplier.h"
+
+1779722575 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\person.cpp
+	"Person.h"
+
+1779718532 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\person.h
+	<iostream>
+
+1779717465 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\supplier.cpp
+	"Supplier.h"
+
+1779717430 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\supplier.h
+	"Person.h"
+
+1779717496 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\admin.cpp
+	"Admin.h"
+
+1779717480 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\admin.h
+	"Person.h"
+
+1779379157 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\product.cpp
+	"Product.h"
+	"Supplier.h"
+	"Catagory.h"
+
+1779273235 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\product.h
+	"Supplier.h"
+	<iostream>
+
+1779273094 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\catagory.h
+	<iostream>
+
+1779379204 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\catagory.cpp
+	"Catagory.h"
+
+1779379148 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\sale.cpp
+	"Sale.h"
+
+1779378762 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\sale.h
+	"Saleitem.h"
+
+1779379432 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\saleitem.h
+	<iostream>
+
+1779379604 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\saleitem.cpp
+	"Saleitem.h"
+
+1779381680 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	"Sale.h"
+	"Supplier.h"
+
+1779381672 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\inventory.h
+	<iostream>
+	<vector>
+	"Product.h"
+	"Sale.h"
+	"Supplier.h"
+
+1779717577 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\filemanager.cpp
+	"Filemanager.h"
+	"Product.h"
+	"Supplier.h"
+	"Sale.h"
+	"Reportgenerator.h"
+	"Catagory.h"
+
+1779717104 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\filemanager.h
+	<vector>
+	<fstream>
+	"Product.h"
+	"Supplier.h"
+	"Sale.h"
+	"Catagory.h"
+	"Reportgenerator.h"
+
+1779538561 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\exceptionhandler.cpp
+	"Exceptionhandler.h"
+
+1779538551 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\exceptionhandler.h
+	<iostream>
+	"Product.h"
+	"Inventory.h"
+	"Filemanager.h"
+
+1779455660 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\reportgenerator.cpp
+	"Reportgenerator.h"
+
+1779294199 d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\reportgenerator.h
+	<iostream>
+	<vector>
+	"Inventory.h"
+	"Product.h"
+	"Sale.h"
+
+1779723738 source:d:\university\2nd semester\oop lab\code blocks\final project\final project\oop project heaader and source file\main.cpp
+	<iostream>
+	"Person.h"
+	"Supplier.h"
+	"Admin.h"
+	"Product.h"
+	"Catagory.h"
+	"Sale.h"
+	"Saleitem.h"
+	"Inventory.h"
+	"Filemanager.h"
+	"Exceptionhandler.h"
+	"Reportgenerator.h"
+
+1779717496 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\admin.cpp
+	"Admin.h"
+
+1779717480 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\admin.h
+	"Person.h"
+
+1779718532 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\person.h
+	<iostream>
+
+1779379204 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\catagory.cpp
+	"Catagory.h"
+
+1779273094 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\catagory.h
+	<iostream>
+
+1779538561 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\exceptionhandler.cpp
+	"Exceptionhandler.h"
+
+1779538551 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\exceptionhandler.h
+	<iostream>
+	"Product.h"
+	"Inventory.h"
+	"Filemanager.h"
+
+1779273235 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\product.h
+	"Supplier.h"
+	<iostream>
+
+1779717430 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\supplier.h
+	"Person.h"
+
+1779381672 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\inventory.h
+	<iostream>
+	<vector>
+	"Product.h"
+	"Sale.h"
+	"Supplier.h"
+
+1779378762 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\sale.h
+	"Saleitem.h"
+
+1779379432 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\saleitem.h
+	<iostream>
+
+1779717104 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\filemanager.h
+	<vector>
+	<fstream>
+	"Product.h"
+	"Supplier.h"
+	"Sale.h"
+	"Catagory.h"
+	"Reportgenerator.h"
+
+1779294199 d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\reportgenerator.h
+	<iostream>
+	<vector>
+	"Inventory.h"
+	"Product.h"
+	"Sale.h"
+
+1779717577 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\filemanager.cpp
+	"Filemanager.h"
+	"Product.h"
+	"Supplier.h"
+	"Sale.h"
+	"Reportgenerator.h"
+	"Catagory.h"
+
+1779381680 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	"Sale.h"
+	"Supplier.h"
+
+1779723738 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\main.cpp
+	<iostream>
+	"Person.h"
+	"Supplier.h"
+	"Admin.h"
+	"Product.h"
+	"Catagory.h"
+	"Sale.h"
+	"Saleitem.h"
+	"Inventory.h"
+	"Filemanager.h"
+	"Exceptionhandler.h"
+	"Reportgenerator.h"
+
+1779722575 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\person.cpp
+	"Person.h"
+
+1779379157 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\product.cpp
+	"Product.h"
+	"Supplier.h"
+	"Catagory.h"
+
+1779455660 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\reportgenerator.cpp
+	"Reportgenerator.h"
+
+1779379148 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\sale.cpp
+	"Sale.h"
+
+1779379604 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\saleitem.cpp
+	"Saleitem.h"
+
+1779717465 source:d:\university\2nd semester\oop lab\code blocks\final project\inventory management system\oop project heaader and source file\supplier.cpp
+	"Supplier.h"
+
