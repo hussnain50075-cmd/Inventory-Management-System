@@ -32,3 +32,18 @@ This project manages products, suppliers, sales, and file-based data storage in 
 ---
 
 ## 📁 Project Structure
+
+
+---
+
+## ⚙️ How to Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/hussnain50075-cmd/Inventory-Management-System.git
+
+cd Inventory-Management-System
+
+g++ main.cpp -o final project
+
+./Final Project
